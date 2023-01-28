@@ -1,0 +1,10 @@
+C:\Users\Dell\Desktop\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.exe.config
+C:\Users\Dell\Desktop\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.exe
+C:\Users\Dell\Desktop\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.pdb
+C:\Users\Dell\Desktop\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.Form1.resources
+C:\Users\Dell\Desktop\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.Properties.Resources.resources
+C:\Users\Dell\Desktop\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.exe
+C:\Users\Dell\Desktop\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb

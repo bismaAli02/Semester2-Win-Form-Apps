@@ -1,0 +1,60 @@
+C:\Users\Dell\Desktop\UniversityData\PacMan\PacMan\bin\Debug\PacMan.exe.config
+C:\Users\Dell\Desktop\UniversityData\PacMan\PacMan\bin\Debug\PacMan.exe
+C:\Users\Dell\Desktop\UniversityData\PacMan\PacMan\bin\Debug\PacMan.pdb
+C:\Users\Dell\Desktop\UniversityData\PacMan\PacMan\bin\Debug\EZInput.dll
+C:\Users\Dell\Desktop\UniversityData\PacMan\PacMan\bin\Debug\EZInput.xml
+C:\Users\Dell\Desktop\UniversityData\PacMan\PacMan\obj\Debug\PacMan.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\UniversityData\PacMan\PacMan\obj\Debug\PacMan.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\UniversityData\PacMan\PacMan\obj\Debug\PacMan.csproj.CopyComplete
+C:\Users\Dell\Desktop\UniversityData\PacMan\PacMan\obj\Debug\PacMan.exe
+C:\Users\Dell\Desktop\UniversityData\PacMan\PacMan\obj\Debug\PacMan.pdb
+D:\New folder\PacMan\PacMan\bin\Debug\PacMan.exe.config
+D:\New folder\PacMan\PacMan\bin\Debug\PacMan.exe
+D:\New folder\PacMan\PacMan\bin\Debug\PacMan.pdb
+D:\New folder\PacMan\PacMan\bin\Debug\EZInput.dll
+D:\New folder\PacMan\PacMan\bin\Debug\EZInput.xml
+D:\New folder\PacMan\PacMan\obj\Debug\PacMan.csproj.AssemblyReference.cache
+D:\New folder\PacMan\PacMan\obj\Debug\PacMan.csproj.CoreCompileInputs.cache
+D:\New folder\PacMan\PacMan\obj\Debug\PacMan.csproj.CopyComplete
+D:\New folder\PacMan\PacMan\obj\Debug\PacMan.exe
+D:\New folder\PacMan\PacMan\obj\Debug\PacMan.pdb
+C:\Users\Dell\Desktop\UniversityData\PacMan\PacMan\PacMan\bin\Debug\PacMan.exe.config
+C:\Users\Dell\Desktop\UniversityData\PacMan\PacMan\PacMan\bin\Debug\PacMan.exe
+C:\Users\Dell\Desktop\UniversityData\PacMan\PacMan\PacMan\bin\Debug\PacMan.pdb
+C:\Users\Dell\Desktop\UniversityData\PacMan\PacMan\PacMan\bin\Debug\EZInput.dll
+C:\Users\Dell\Desktop\UniversityData\PacMan\PacMan\PacMan\bin\Debug\EZInput.xml
+C:\Users\Dell\Desktop\UniversityData\PacMan\PacMan\PacMan\obj\Debug\PacMan.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\UniversityData\PacMan\PacMan\PacMan\obj\Debug\PacMan.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\UniversityData\PacMan\PacMan\PacMan\obj\Debug\PacMan.csproj.CopyComplete
+C:\Users\Dell\Desktop\UniversityData\PacMan\PacMan\PacMan\obj\Debug\PacMan.exe
+C:\Users\Dell\Desktop\UniversityData\PacMan\PacMan\PacMan\obj\Debug\PacMan.pdb
+C:\Users\Dell\Desktop\PacMan\PacMan\PacMan\obj\Debug\PacMan.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\PacMan\PacMan\PacMan\obj\Debug\PacMan.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\PacMan\PacMan\PacMan\obj\Debug\PacMan.exe
+C:\Users\Dell\Desktop\PacMan\PacMan\PacMan\obj\Debug\PacMan.pdb
+C:\Users\Dell\Desktop\PacMan\PacMan\PacMan\bin\Debug\PacMan.exe.config
+C:\Users\Dell\Desktop\PacMan\PacMan\PacMan\bin\Debug\PacMan.exe
+C:\Users\Dell\Desktop\PacMan\PacMan\PacMan\bin\Debug\PacMan.pdb
+C:\Users\Dell\Desktop\PacMan\PacMan\PacMan\bin\Debug\EZInput.dll
+C:\Users\Dell\Desktop\PacMan\PacMan\PacMan\bin\Debug\EZInput.xml
+C:\Users\Dell\Desktop\PacMan\PacMan\PacMan\obj\Debug\PacMan.csproj.CopyComplete
+C:\Users\IT ZONE\OneDrive\Desktop\PacMan\PacMan\PacMan\PacMan\bin\Debug\PacMan.exe.config
+C:\Users\IT ZONE\OneDrive\Desktop\PacMan\PacMan\PacMan\PacMan\bin\Debug\PacMan.exe
+C:\Users\IT ZONE\OneDrive\Desktop\PacMan\PacMan\PacMan\PacMan\bin\Debug\PacMan.pdb
+C:\Users\IT ZONE\OneDrive\Desktop\PacMan\PacMan\PacMan\PacMan\bin\Debug\EZInput.dll
+C:\Users\IT ZONE\OneDrive\Desktop\PacMan\PacMan\PacMan\PacMan\bin\Debug\EZInput.xml
+C:\Users\IT ZONE\OneDrive\Desktop\PacMan\PacMan\PacMan\PacMan\obj\Debug\PacMan.csproj.AssemblyReference.cache
+C:\Users\IT ZONE\OneDrive\Desktop\PacMan\PacMan\PacMan\PacMan\obj\Debug\PacMan.csproj.CoreCompileInputs.cache
+C:\Users\IT ZONE\OneDrive\Desktop\PacMan\PacMan\PacMan\PacMan\obj\Debug\PacMan.csproj.CopyComplete
+C:\Users\IT ZONE\OneDrive\Desktop\PacMan\PacMan\PacMan\PacMan\obj\Debug\PacMan.exe
+C:\Users\IT ZONE\OneDrive\Desktop\PacMan\PacMan\PacMan\PacMan\obj\Debug\PacMan.pdb
+C:\Users\Dell\Desktop\PacMan\PacMan\PacMan\PacMan\bin\Debug\PacMan.exe.config
+C:\Users\Dell\Desktop\PacMan\PacMan\PacMan\PacMan\bin\Debug\PacMan.exe
+C:\Users\Dell\Desktop\PacMan\PacMan\PacMan\PacMan\bin\Debug\PacMan.pdb
+C:\Users\Dell\Desktop\PacMan\PacMan\PacMan\PacMan\bin\Debug\EZInput.dll
+C:\Users\Dell\Desktop\PacMan\PacMan\PacMan\PacMan\bin\Debug\EZInput.xml
+C:\Users\Dell\Desktop\PacMan\PacMan\PacMan\PacMan\obj\Debug\PacMan.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\PacMan\PacMan\PacMan\PacMan\obj\Debug\PacMan.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\PacMan\PacMan\PacMan\PacMan\obj\Debug\PacMan.csproj.CopyComplete
+C:\Users\Dell\Desktop\PacMan\PacMan\PacMan\PacMan\obj\Debug\PacMan.exe
+C:\Users\Dell\Desktop\PacMan\PacMan\PacMan\PacMan\obj\Debug\PacMan.pdb
